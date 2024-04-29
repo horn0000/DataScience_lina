@@ -10,8 +10,14 @@ After printing, the program should exit successfully.
 """
 import torch
 
-a = torch.tensor(3.0)
-b = torch.tensor(4.0)
-result = a + b
 
-print(f"Sum of {a.item()} and {b.item()} is {result.item()}")
+def run(print_output=False):
+    a = torch.tensor(3.0)
+    b = torch.tensor(4.0)
+    result = a + b
+
+    if print_output: print(f"Sum of {a.item()} and {b.item()} is {result.item()}")
+
+
+if __name__ == "__main__":
+    run(print_output=True)
