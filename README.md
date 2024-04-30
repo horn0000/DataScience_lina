@@ -5,6 +5,10 @@ occurring in May 2024.
 
 ## Sources
 
+### Datasets
+
+- [Pearson Father & Son dataset](https://mathstat.slu.edu/~clair/stat1300/data/pearson-father-son.csv)
+
 ### Practice
 
 The following section contains some online interactive learning materials.
@@ -13,8 +17,10 @@ The following section contains some online interactive learning materials.
 - [RAWgraphs](https://www.rawgraphs.io/): Online visualization tool for quick exploration.
 - [drawdata.xyz](https://drawdata.xyz/): This website allows you to draw your own data points, which are great for practicing with machine learning. (Tip: pandas has read CSV from clipboard functionality)
 
-
-
 ### Reading
 
+- [Dummy Variable Trap and how easy it is to get trapped in pandas](https://builtin.com/machine-learning/dummy-variable-trap-pandas)
+
 ### Video
+
+- [CodeBullet - AI learns to Drive](https://www.youtube.com/watch?v=r428O_CMcpI)
