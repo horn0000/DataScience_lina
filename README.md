@@ -19,8 +19,24 @@ The following section contains some online interactive learning materials.
 
 ### Reading
 
-- [Dummy Variable Trap and how easy it is to get trapped in pandas](https://builtin.com/machine-learning/dummy-variable-trap-pandas)
+#### Documentation & libraries
+- [Pipelines in scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+- [HuggingFace Models for Tensorflow ML](https://huggingface.co/docs/transformers/index)
+- [Keras, TensorFlow and when to use them](https://pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/)
+
+#### Ethics
+- [European Commission's Expert Level Group on Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
+- [Amazon scrapped 'sexist AI' tool](https://www.bbc.com/news/technology-45809919)
+- [Systemic racism in data](https://fairlearn.org/main/user_guide/datasets/boston_housing_data.html)
+
+#### Feature Engineering
+- [Dummy Variable Trap in Feature Engineering and how easy it is to get trapped in pandas](https://builtin.com/machine-learning/dummy-variable-trap-pandas)
 
 ### Video
 
+#### Regression Algorithms
+- [K-Nearest Neighbors Regression](https://www.youtube.com/watch?v=BvQVovMefsM)
+- [Choosing a suitable regression algorithm](https://towardsdatascience.com/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3)
+
+#### Reinforcement Learning
 - [CodeBullet - AI learns to Drive](https://www.youtube.com/watch?v=r428O_CMcpI)
