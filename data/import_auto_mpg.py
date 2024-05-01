@@ -1,7 +1,7 @@
 """
 import_auto_mpg.py
 
-Importeer de auto MPG dataset uit de OpenML repo.
+Import the auto MPG dataset in case you do not have the download.
 """
 from sklearn.datasets import fetch_openml
 
